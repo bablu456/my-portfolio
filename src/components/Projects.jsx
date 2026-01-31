@@ -7,27 +7,27 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 const projectsData = [
   {
     id: 1,
-    title: "Portfolio Website",
-    category: "Web Dev",
-    image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    description: "A personal portfolio to showcase my journey and skills.",
-    tech: ["React", "Tailwind", "Framer Motion"]
+    title: "Microservices Banking App",
+    category: "Backend",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&q=80&w=800",
+    description: "A scalable banking system built with Spring Boot microservices, Eureka Server, and API Gateway.",
+    tech: ["Java", "Spring Boot", "Microservices", "Docker"]
   },
   {
     id: 2,
-    title: "E-Commerce Dashboard",
-    category: "UI/UX",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    description: "A clean interface for managing online sales and customers.",
-    tech: ["Figma", "React", "Chart.js"]
+    title: "Portfolio Website",
+    category: "Web Dev",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+    description: "Modern personal portfolio with animations and responsive design.",
+    tech: ["React", "Tailwind", "Framer Motion"]
   },
   {
     id: 3,
-    title: "Task Manager App",
-    category: "App",
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    description: "A productivity tool to organize daily tasks efficiently.",
-    tech: ["React Native", "Firebase"]
+    title: "Inventory Management System",
+    category: "Full Stack",
+    image: "https://images.unsplash.com/photo-1586880244406-556ebe35f282?auto=format&fit=crop&q=80&w=800",
+    description: "Full stack inventory tracking with REST APIs and a React dashboard.",
+    tech: ["Java", "Spring Boot", "React", "MySQL"]
   },
 ];
 
